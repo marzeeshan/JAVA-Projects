@@ -1,2 +1,3 @@
-# Projects
-A compilation of all coding projects I have worked on.
+# JAVA Projects
+
+Here is a compilation of all the JAVA projects I have worked on.
